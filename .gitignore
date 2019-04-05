@@ -1,0 +1,48 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+
+# ----- standard ignores, sorted by header, sorted under each header ---------
+
+
+*.iml
+
+# Eclipse generated files.
+*/.classpath
+*/.project
+*/.settings/*
+
+# Maven generated target folder.
+*/target/*
+
+# IDEs and editors
+*/.idea/*
+*.launch
+*/service/src/main/resources/static/*
+
+*/AppName-Service/node_modules/*
+*/AppName-UI/node/*
+
