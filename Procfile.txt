@@ -1,0 +1,2 @@
+web: java -jar target/AppName-Service-0.0.1-SNAPSHOT.jar
+
