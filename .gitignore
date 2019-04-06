@@ -43,6 +43,6 @@
 *.launch
 */service/src/main/resources/static/*
 
-*/AppName-Service/node_modules/*
+*/AppName-UI/node_modules/*
 */AppName-UI/node/*
 
