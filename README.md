@@ -1,4 +1,4 @@
-# AppName
+# AppName - Simplified Building Web Application using Springboot + Angular + Maven
 
 [![Build Status](https://travis-ci.com/ihappyk/AppName.svg?branch=master)](https://travis-ci.com/ihappyk/AppName)
 
