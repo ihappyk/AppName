@@ -3,7 +3,7 @@ jdk: oraclejdk8
 
 
 deploy:
-	provider: heroku
-	api_key: ${HEROKU_SECRET_KEY}
-	app:
-		master
+  provider: heroku
+  api_key: ${HEROKU_SECRET_KEY}
+  app:
+      app-name-springboot
