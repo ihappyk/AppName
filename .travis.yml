@@ -2,8 +2,8 @@ language: java
 jdk: oraclejdk8
 
 
-deploy:
-  provider: heroku
-  api_key: ${HEROKU_SECRET_KEY}
-  app:
-      app-name-springboot
+#deploy:
+#  provider: heroku
+#  api_key: ${HEROKU_SECRET_KEY}
+#  app:
+#      app-name-springboot
